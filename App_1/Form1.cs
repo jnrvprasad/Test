@@ -21,7 +21,7 @@ namespace App_1
         {
             if(txtName.Text == "Test" && txtPWD.Text=="Test")
             {
-                MessageBox.Show("User Available");
+                MessageBox.Show("User Exists and Available");
             }
             else
             {
