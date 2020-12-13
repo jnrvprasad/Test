@@ -25,7 +25,7 @@ namespace App_1
             }
             else
             {
-                MessageBox.Show("User Not Available");
+                MessageBox.Show("User Not Exists and Not Available");
             }
         }
 
